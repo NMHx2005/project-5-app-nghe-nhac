@@ -11,7 +11,7 @@ export default function Side() {
                         <img
                             src="/demo/images.jpg"
                             alt="Logo"
-                            className="h-[42px] w-auto"
+                            className="h-auto w-full"
                         />
                     </Link>
                 </div>
