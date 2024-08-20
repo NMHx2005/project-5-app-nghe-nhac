@@ -9,7 +9,7 @@ export default function Side() {
                     <Link href="/">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
-                            src="/logo.svg"
+                            src="/demo/images.jpg"
                             alt="Logo"
                             className="h-[42px] w-auto"
                         />
